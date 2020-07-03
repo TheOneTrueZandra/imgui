@@ -72,9 +72,7 @@ Index of this file:
 #ifndef IMGUI_API
 #define IMGUI_API
 #endif
-#ifndef IMGUI_IMPL_API
 #define IMGUI_IMPL_API              IMGUI_API
-#endif
 
 // Helper Macros
 #ifndef IM_ASSERT
